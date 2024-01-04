@@ -9,3 +9,11 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 --------------
 #### Projeto feito para práticar a estilização com CSS e BOOTSTRAP. Manipulação de DOM utilizando os métodos setInterval() e ClearInterval().
+
+#### Versão Desktop:
+
+<img src="https://github.com/menezex/Cronometro---Bootstrap-Javascript/blob/main/img/desktop.PNG" min-width="350px" max-width="350px" width="350px">
+
+#### Versão Mobile:
+
+<img src="https://github.com/menezex/Cronometro---Bootstrap-Javascript/blob/main/img/mobile.PNG" min-width="350px" max-width="350px" width="350px">
